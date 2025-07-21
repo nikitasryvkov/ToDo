@@ -27,8 +27,8 @@ const updateValue = (e) => {
 <style lang="scss" scoped>
 .container {
     width: 100%;
-    min-width: 300px;
-    max-width: 600px;
+    min-width: 400px;
+    max-width: 800px;
     position: relative;
     display: flex;
     justify-content: center;
